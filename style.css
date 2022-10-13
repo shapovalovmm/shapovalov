@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700,400italic,700italic&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic);
+* {
+	border: none;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: yellow;
+	font-size: 20px;
+}
+a {
+	font-family: 'Playfair Display SC', serif;
+	color: white;
+	font-size: 20px;
+}
+#nor {
+	font-family: 'Playfair Display SC', serif;
+}
+
+#nor1 {
+	font-family: 'Playfair Display SC', serif;
+}
+#body1 {
+	background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7) ), url("img/image223131.jpg");
+	height: 100%;
+	background-attachment: fixed;
+}
+
+#body2{
+	background: url("img/MaxZxJG.jpg");
+	height: 100%;
+	background-attachment: fixed;
+}
+
+#body3{
+	background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7) ), url("img/norway.jpg");
+	height: 100%;
+	background-attachment: fixed;
+	
+}
+
+#body2 img{
+	width: 30vw;
+	
+}
+#body1 img {
+	width: 300px;
+}
+
+
+body {
+	width: 150vh;
+
+	margin-left: auto;
+    margin-right: auto;
+}
